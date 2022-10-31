@@ -1,11 +1,12 @@
-body  {
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+body {
+  font-family: 'Dancing Script', cursive;
    text-align: center;
    background-color;
 }
-.capa {
-   width: 100%;  
+capa.jpg {
+   width: 100%;
 }
-.imagem.capa {
+capa.jpg {
     width: 30%;
 }
-
