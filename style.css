@@ -37,24 +37,21 @@ nav a {
 nav a:hover{
    font-size: 25px;
    font-weight: bold;
-   text-shadow: 2px 3px 5px rgb(255, 129, 129);
+   text-shadow: 2px 3px 5px rgb(129, 255, 140);
    color: #fd3b3b;
    transition: 0.5s;
 
 }
 .capa 
-   width: 100%;
+   width: 50%;
    border-radius: 5px 5px 5px 5px;
-capa.jpg {
-   width: 100%;
-}
 capa.jpg {
     width: 30%;
 }
 .beneficios {
 
 text-align: left;
-bakground-color:-o-linear-gradient() rgb(68, 172, 7)
+background-color:-o-linear-gradient() rgb(68, 172, 7)
 }
 ul {
 display: inline-block;
@@ -66,5 +63,5 @@ padding: 25px;
 font-size: 26px;
 }
 .foto-beneficios{
-   width: 40;
+   width: 45%;
 }
